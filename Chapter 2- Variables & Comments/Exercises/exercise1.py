@@ -4,3 +4,4 @@ print(msg)
 
 msg = "It is really interesting!"
 print(msg)
+msg="Usman sir's nice"
